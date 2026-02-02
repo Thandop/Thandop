@@ -51,4 +51,13 @@ Currently, I work as a **Product Development Assistant** in the medical manufact
 | :--- | :--- | :--- |
 | **Robotic Welding Ops** | Optimization of Fanuc robot tool paths for high-precision bed frame welding. | `Fanuc` `Automation` |
 | **Clinical Maintenance** | Diagnostics, repair, and calibration of ventilators, incubators, and patient monitors. | `Troubleshooting` `Medical Devices` |
-| **Inventory Dashboard** | Interactive dashboard to track surgical implant stock and reduce
+| **Inventory Dashboard** | Interactive dashboard to track surgical implant stock and reduce discrepancies. | `Power BI` `Data Analysis` |
+| **Automated Battery Charger** | A smart charging system with closed-loop control to prevent overcharging. | `PCB Design` `Embedded C` |
+| **Solar Water Monitor** | IoT system for remote water level tracking using wireless data transmission. | `Arduino` `Sensors` |
+| **Light Alarm System** | Sensor-based alarm triggered by ambient light thresholds using comparator circuits. | `Electronics` `Photo-resistors` |
+
+#
+
+### 📊 Stats
+
+![Thandop's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thandop&show_icons=true&theme=dracula&hide_border=true)
