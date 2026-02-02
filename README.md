@@ -49,4 +49,4 @@ Currently, I'm working as a Product Development Assistant in medical bed manufac
 
 ### 📊 Stats
 
-![Thandop's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thandop&show_icons=true&theme=gruvbox)
+![Thandop's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thandop&show_icons=true&theme=radical)
