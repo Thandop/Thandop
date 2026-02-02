@@ -1,14 +1,15 @@
 # 🦾 Proffessor Thando Mlotshwa (Thandop)
 
-**`Mechatronics Technician | Clinical Engineering & Automation Specialist`**
+**`Mechatronics Technician | Automation Specialist | Future Tech Founder`**
 
 I am a qualified Mechatronics Technician proficient in bridging the gap between mechanical design, electronic control, and medical technology. My expertise spans **Industrial Robotics (Fanuc)**, **Medical Device Maintenance**, and **Data-Driven Manufacturing**.
 
-Currently, I work as a **Product Development Assistant** in the medical manufacturing sector, optimizing production with robotics. Previously, I gained hands-on experience in a **Regional Public Hospital**, where I maintained life-critical equipment like ventilators and anesthesia machines. I have a passion for building projects from the ground up, ensuring reliability in both industrial and clinical environments.
+Currently, I work as a **Product Development Assistant** in the medical manufacturing sector, optimizing production with robotics. I am also **laying the groundwork for my own technology startup**, aiming to develop innovative hardware solutions that bridge the gap between automation and daily utility. I have a passion for building projects from the ground up, ensuring reliability in both industrial and clinical environments.
 
 * 🎓 **Background:** Mechatronics Engineering & Clinical Engineering.
+* 🚀 **Startup Vision:** Planning and R&D for a new venture focused on next-gen hardware technology.
 * 🔭 **Currently working on:** Robotic welding optimization and medical bed prototyping.
-* ⚡ **Experience:** Preventative maintenance, fault-finding on PCBs, and equipment calibration.
+* 👯 **Looking for:** Collaborators and innovators passionate about building new technology.
 
 <p align="left">
   <a href="https://github.com/Thandop?tab=followers">
@@ -50,13 +51,4 @@ Currently, I work as a **Product Development Assistant** in the medical manufact
 | :--- | :--- | :--- |
 | **Robotic Welding Ops** | Optimization of Fanuc robot tool paths for high-precision bed frame welding. | `Fanuc` `Automation` |
 | **Clinical Maintenance** | Diagnostics, repair, and calibration of ventilators, incubators, and patient monitors. | `Troubleshooting` `Medical Devices` |
-| **Inventory Dashboard** | Interactive dashboard to track surgical implant stock and reduce discrepancies. | `Power BI` `Data Analysis` |
-| **Automated Battery Charger** | A smart charging system with closed-loop control to prevent overcharging. | `PCB Design` `Embedded C` |
-| **Solar Water Monitor** | IoT system for remote water level tracking using wireless data transmission. | `Arduino` `Sensors` |
-| **Light Alarm System** | Sensor-based alarm triggered by ambient light thresholds using comparator circuits. | `Electronics` `Photo-resistors` |
-
-#
-
-### 📊 Stats
-
-![Thandop's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thandop&show_icons=true&theme=dracula&hide_border=true)
+| **Inventory Dashboard** | Interactive dashboard to track surgical implant stock and reduce
