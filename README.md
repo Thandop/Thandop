@@ -1,10 +1,14 @@
 # 🦾 Proffessor Thando Mlotshwa (Thandop)
 
-**`Mechatronics Engineering Technician | Product Development Assistant`**
+**`Mechatronics Technician | Clinical Engineering & Automation Specialist`**
 
-I'm a Mechatronics specialist and Product Developer focused on bridging the gap between mechanical design and intelligent control systems. My work centers on automating real-world processes, from integrating FANUC robotics to designing smart medical devices. I build projects from the component level up—handling everything from CAD design (SolidWorks/AutoCAD) to PLC programming and embedded C++ logic.
+I am a qualified Mechatronics Technician proficient in bridging the gap between mechanical design, electronic control, and medical technology. My expertise spans **Industrial Robotics (Fanuc)**, **Medical Device Maintenance**, and **Data-Driven Manufacturing**.
 
-Currently, I'm working as a Product Development Assistant in medical bed manufacturing, ensuring reliability and innovation in healthcare technology.
+Currently, I work as a **Product Development Assistant** in the medical manufacturing sector, optimizing production with robotics. Previously, I gained hands-on experience in a **Regional Public Hospital**, where I maintained life-critical equipment like ventilators and anesthesia machines. I have a passion for building projects from the ground up, ensuring reliability in both industrial and clinical environments.
+
+* 🎓 **Background:** Mechatronics Engineering & Clinical Engineering.
+* 🔭 **Currently working on:** Robotic welding optimization and medical bed prototyping.
+* ⚡ **Experience:** Preventative maintenance, fault-finding on PCBs, and equipment calibration.
 
 <p align="left">
   <a href="https://github.com/Thandop?tab=followers">
@@ -13,40 +17,46 @@ Currently, I'm working as a Product Development Assistant in medical bed manufac
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Thandop?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="mailto:thapro010918@gmail.com">
     <img alt="Email" title="Contact Me" src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/proffessor-mlotshwa-a0820420a">
+    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🧰 Languages and Technologies
+### 🧰 Technical Competencies
 
-<img align="left" alt="SolidWorks" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/91/SolidWorks_Logo.svg"/>
-<img align="left" alt="AutoCAD" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/AutoCAD_logo.svg"/>
-<img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"/>
+<img src="https://img.shields.io/badge/Clinical_Engineering-red?style=for-the-badge&logo=first-aid&logoColor=white" />
+<img src="https://img.shields.io/badge/Medical_Device_Repair-00599C?style=for-the-badge" />
 
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img src="https://img.shields.io/badge/Solid_Edge-DD3A0A?style=for-the-badge&logo=siemens&logoColor=white" />
+<img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
+<img src="https://img.shields.io/badge/KiCad-3145A0?style=for-the-badge&logo=kicad&logoColor=white" />
 
-<img align="left" alt="Robotics" width="30px" style="padding-right:10px;" src="https://img.icons8.com/ios-filled/50/000000/industrial-robot.png"/> 
+<img src="https://img.shields.io/badge/Fanuc_Robotics-F7D200?style=for-the-badge&logo=fanuc&logoColor=black" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 
 <br />
 <br />
 
 #
 
-### 🛠️ Featured Projects
+### 🛠️ Key Technical Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Smart Medical Bed** | Prototype design focusing on patient automation and monitoring. | `SolidWorks` `Embedded Systems` |
-| **Solar Water Monitor** | IoT system for monitoring water levels and quality using renewable power. | `Arduino` `C++` `Solar` |
-| **Inventory Tracker** | Automated script to manage and track stock levels efficiently. | `Python` |
-| **Hydraulic Arm** | Simulation and control of a hydraulic robotic arm. | `PLC` `SolidWorks` |
-| **Battery Charger** | Automated charging system design. | `Electronics` `PCB Design` |
+| **Robotic Welding Ops** | Optimization of Fanuc robot tool paths for high-precision bed frame welding. | `Fanuc` `Automation` |
+| **Clinical Maintenance** | Diagnostics, repair, and calibration of ventilators, incubators, and patient monitors. | `Troubleshooting` `Medical Devices` |
+| **Inventory Dashboard** | Interactive dashboard to track surgical implant stock and reduce discrepancies. | `Power BI` `Data Analysis` |
+| **Automated Battery Charger** | A smart charging system with closed-loop control to prevent overcharging. | `PCB Design` `Embedded C` |
+| **Solar Water Monitor** | IoT system for remote water level tracking using wireless data transmission. | `Arduino` `Sensors` |
+| **Light Alarm System** | Sensor-based alarm triggered by ambient light thresholds using comparator circuits. | `Electronics` `Photo-resistors` |
 
 #
 
 ### 📊 Stats
 
-![Thandop's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thandop&show_icons=true&theme=radical)
+![Thandop's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thandop&show_icons=true&theme=dracula&hide_border=true)
